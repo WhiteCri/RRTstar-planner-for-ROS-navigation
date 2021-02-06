@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>rrt_star_planner</name>
+  <name>rrtstar_planner</name>
   <version>0.0.0</version>
   <description>The rrt_star_planner package</description>
 
